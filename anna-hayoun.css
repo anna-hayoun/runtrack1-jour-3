@@ -1,0 +1,61 @@
+h2
+{
+    color:darksalmon;
+}
+
+h1
+{
+    color:indianred;
+}
+
+.name
+{
+    color: indianred;
+}
+
+.crea
+{
+    color:lightsalmon;
+}
+
+p
+{
+    font-size: medium;
+}
+
+h1, h2, p
+{
+    font-family:Arial, Helvetica, sans-serif, serif;
+}
+
+.name, .crea
+{
+    font-style: italic;
+}
+
+.gr
+{
+    font-weight: bold;
+}
+
+h1, h2
+{
+    text-decoration: overline;
+}
+
+*
+{
+    text-align: center;
+}
+
+.huh
+{
+    float: left;
+}
+
+img
+{
+    width: 250px;
+    height: 250px;
+}
+
